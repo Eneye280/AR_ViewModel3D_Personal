@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1324564886078011223}
   - component: {fileID: 2724140301188708594}
   - component: {fileID: 156183849963703352}
+  - component: {fileID: -1678819837141825976}
   m_Layer: 0
   m_Name: Ship Space Bob
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &-1678819837141825976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1813292665317551597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e15942199cab7646968ba9d88156827, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActive: 0
+  speed: 1000
