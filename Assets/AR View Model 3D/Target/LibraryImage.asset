@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: LibraryImage
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5330077048321691031
+  m_GuidHigh: 11577220576008007049
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5469544009735433656
+      m_GuidHigh: 10977183066976191656
+    m_SerializedTextureGuid:
+      m_GuidLow: 7071952718062985738
+      m_GuidHigh: 8637611120856190216
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Copia Logo Eu
+    m_Texture: {fileID: 2800000, guid: 3c80a20a9f87622408cd98e68cf5de77, type: 3}
